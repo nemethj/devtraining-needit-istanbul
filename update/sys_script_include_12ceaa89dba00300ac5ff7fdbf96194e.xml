@@ -24,7 +24,7 @@ GetEmailAddress.prototype = Object.extendsObject(global.AbstractAjaxProcessor,{
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-08-11 14:04:09</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>12ceaa89dba00300ac5ff7fdbf96194e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>GetEmailAddress</sys_name>
